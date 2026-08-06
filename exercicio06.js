@@ -1,3 +1,4 @@
+// Separando Faixa Etária
 const idades = [12, 18, 25, 40, 16, 22];
 console.log("Menores de idade: ")
 for (i = 0; i < idades.length; i++) {
