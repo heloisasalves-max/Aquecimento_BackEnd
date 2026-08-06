@@ -1,4 +1,4 @@
-// Buscar Capital
+// Buscar Capital.
 const capitais = ["Brasília", "Salvador", "Manaus", "Recife"];
 let manaus = false;
 
